@@ -60,12 +60,6 @@ foreach (var item in item_indexList_dict)
 var hashset = new HashSet<int>(arr);
 Console.WriteLine(hashset.Count < arr.Length ? "Array has duplicates" : "Array has no duplicates");
 
-var newHashSet = new HashSet<int>();
-var newDuplicateItems = new List<int>();
-foreach (int i in arr) 
-{
-    
-}
 
 
 

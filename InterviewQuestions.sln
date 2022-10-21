@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33006.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{58B287E5-49C8-495D-B92B-97F12E840E4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMaxOfCollection", "src\MinMaxOfCollection\MinMaxOfCollection.csproj", "{5FA9E14B-539C-4302-AACE-C32611D121C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMaxOfCollection", "MinMaxOfCollection\MinMaxOfCollection.csproj", "{C6631F8F-875F-4F9F-AF41-E9D092832008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "src\FizzBuzz\FizzBuzz.csproj", "{BCCE338C-F975-4F32-93AF-D3D41355DDC3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckForDupllicatesInCollection", "CheckForDupllicatesInCollection\CheckForDupllicatesInCollection.csproj", "{AB061EA8-D199-4090-9E1E-9B7726FA09CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckForDupllicatesInCollection", "src\CheckForDupllicatesInCollection\CheckForDupllicatesInCollection.csproj", "{ED5AF2A0-6928-4B47-ACE9-1C707138A4C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{58B287E5-49C8-495D-B92B-97F12E840E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{58B287E5-49C8-495D-B92B-97F12E840E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{58B287E5-49C8-495D-B92B-97F12E840E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{58B287E5-49C8-495D-B92B-97F12E840E4B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C6631F8F-875F-4F9F-AF41-E9D092832008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6631F8F-875F-4F9F-AF41-E9D092832008}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6631F8F-875F-4F9F-AF41-E9D092832008}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6631F8F-875F-4F9F-AF41-E9D092832008}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AB061EA8-D199-4090-9E1E-9B7726FA09CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB061EA8-D199-4090-9E1E-9B7726FA09CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB061EA8-D199-4090-9E1E-9B7726FA09CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB061EA8-D199-4090-9E1E-9B7726FA09CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA9E14B-539C-4302-AACE-C32611D121C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA9E14B-539C-4302-AACE-C32611D121C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA9E14B-539C-4302-AACE-C32611D121C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA9E14B-539C-4302-AACE-C32611D121C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCE338C-F975-4F32-93AF-D3D41355DDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCE338C-F975-4F32-93AF-D3D41355DDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCE338C-F975-4F32-93AF-D3D41355DDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCE338C-F975-4F32-93AF-D3D41355DDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5AF2A0-6928-4B47-ACE9-1C707138A4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5AF2A0-6928-4B47-ACE9-1C707138A4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5AF2A0-6928-4B47-ACE9-1C707138A4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5AF2A0-6928-4B47-ACE9-1C707138A4C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
