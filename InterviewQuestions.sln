@@ -11,6 +11,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckForDupllicatesInCollec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "src\BinarySearch\BinarySearch.csproj", "{ADA44436-7877-4B5C-8718-61E7EADA0D66}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SearchAlgorithms", "SearchAlgorithms", "{23B6CA10-8A2B-413F-A459-7154D30B7E7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TreeAlgorithms", "TreeAlgorithms", "{2B170E22-4359-4065-8D17-665DE9AF3FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckEqualityOfBinaryTrees", "src\CheckEqualityOfBinaryTrees\CheckEqualityOfBinaryTrees.csproj", "{98AFFFB0-3904-4958-B80B-22189B74769F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTree", "src\PrintTree\PrintTree.csproj", "{8FFD7727-D359-49C7-8783-69E1482A4F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeReusables", "src\TreeReusables\TreeReusables.csproj", "{DDD39F27-DC2F-4B30-8A84-83E03B772E50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,9 +43,27 @@ Global
 		{ADA44436-7877-4B5C-8718-61E7EADA0D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADA44436-7877-4B5C-8718-61E7EADA0D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADA44436-7877-4B5C-8718-61E7EADA0D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AFFFB0-3904-4958-B80B-22189B74769F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AFFFB0-3904-4958-B80B-22189B74769F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AFFFB0-3904-4958-B80B-22189B74769F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AFFFB0-3904-4958-B80B-22189B74769F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFD7727-D359-49C7-8783-69E1482A4F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFD7727-D359-49C7-8783-69E1482A4F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFD7727-D359-49C7-8783-69E1482A4F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFD7727-D359-49C7-8783-69E1482A4F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD39F27-DC2F-4B30-8A84-83E03B772E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD39F27-DC2F-4B30-8A84-83E03B772E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD39F27-DC2F-4B30-8A84-83E03B772E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD39F27-DC2F-4B30-8A84-83E03B772E50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ADA44436-7877-4B5C-8718-61E7EADA0D66} = {23B6CA10-8A2B-413F-A459-7154D30B7E7F}
+		{98AFFFB0-3904-4958-B80B-22189B74769F} = {2B170E22-4359-4065-8D17-665DE9AF3FEA}
+		{8FFD7727-D359-49C7-8783-69E1482A4F44} = {2B170E22-4359-4065-8D17-665DE9AF3FEA}
+		{DDD39F27-DC2F-4B30-8A84-83E03B772E50} = {2B170E22-4359-4065-8D17-665DE9AF3FEA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {48BF0F28-663C-477D-A057-6A48598A5DF8}
