@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "src\D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "src\CountingSort\CountingSort.csproj", "{B179C909-2AAD-486B-BE6A-6055F9F94890}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerBreakers", "src\TowerBreakers\TowerBreakers.csproj", "{59DDFEE1-5324-4F34-8963-FBABC00B3FB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{B179C909-2AAD-486B-BE6A-6055F9F94890}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B179C909-2AAD-486B-BE6A-6055F9F94890}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B179C909-2AAD-486B-BE6A-6055F9F94890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59DDFEE1-5324-4F34-8963-FBABC00B3FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DDFEE1-5324-4F34-8963-FBABC00B3FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DDFEE1-5324-4F34-8963-FBABC00B3FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DDFEE1-5324-4F34-8963-FBABC00B3FB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
