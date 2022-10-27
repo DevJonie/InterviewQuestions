@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "src\Lonely
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "src\DiagonalDifference\DiagonalDifference.csproj", "{26D58AB2-1BBE-4303-9E6B-7A3C4B41349F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "src\CountingSort\CountingSort.csproj", "{B179C909-2AAD-486B-BE6A-6055F9F94890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{26D58AB2-1BBE-4303-9E6B-7A3C4B41349F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26D58AB2-1BBE-4303-9E6B-7A3C4B41349F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26D58AB2-1BBE-4303-9E6B-7A3C4B41349F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B179C909-2AAD-486B-BE6A-6055F9F94890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B179C909-2AAD-486B-BE6A-6055F9F94890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B179C909-2AAD-486B-BE6A-6055F9F94890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B179C909-2AAD-486B-BE6A-6055F9F94890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
