@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveDigitSum", "src\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearChaos", "src\NewYearChaos\NewYearChaos.csproj", "{39BC5F7F-A4F0-44E6-BC2E-406A96A8BB92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLinkedList", "src\MergeTwoSortedLinkedList\MergeTwoSortedLinkedList.csproj", "{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{39BC5F7F-A4F0-44E6-BC2E-406A96A8BB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39BC5F7F-A4F0-44E6-BC2E-406A96A8BB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39BC5F7F-A4F0-44E6-BC2E-406A96A8BB92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
