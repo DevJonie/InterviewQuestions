@@ -4,7 +4,7 @@ Console.WriteLine($"Unsorted array: {string.Join(", ", arr)}");
 
 for (int i = 0; i < arr.Length; i++)
 {
-    bool swaped = false;
+    bool swapped = false;
     for (int j = 0; j < arr.Length - 1; j++)
     {
         if (arr[j] > arr[j + 1])
@@ -12,11 +12,11 @@ for (int i = 0; i < arr.Length; i++)
             int temp = arr[j + 1];
             arr[j + 1] = arr[j];
             arr[j] = temp;
-            swaped = true;
+            swapped = true;
         }
     }
 
-    if (!swaped)
+    if (!swapped)
     {
         break;
     }
