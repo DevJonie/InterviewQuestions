@@ -21,29 +21,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintTree", "src\PrintTree\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeReusables", "src\TreeReusables\TreeReusables.csproj", "{DDD39F27-DC2F-4B30-8A84-83E03B772E50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "src\PlusMinus\PlusMinus.csproj", "{B14D352B-2AEA-4169-A50E-9E7CBE35D2FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "src\PlusMinus\PlusMinus.csproj", "{B14D352B-2AEA-4169-A50E-9E7CBE35D2FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSum", "src\MiniMaxSum\MiniMaxSum.csproj", "{82BF15ED-C203-40A7-9F5E-C11613EC3A55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniMaxSum", "src\MiniMaxSum\MiniMaxSum.csproj", "{82BF15ED-C203-40A7-9F5E-C11613EC3A55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "src\TimeConversion\TimeConversion.csproj", "{8E653C18-B32E-4FCC-A679-8621625CC284}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "src\TimeConversion\TimeConversion.csproj", "{8E653C18-B32E-4FCC-A679-8621625CC284}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "src\LonelyInteger\LonelyInteger.csproj", "{474043CD-C45A-4271-A9FF-184D05AF2E54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LonelyInteger", "src\LonelyInteger\LonelyInteger.csproj", "{474043CD-C45A-4271-A9FF-184D05AF2E54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "src\DiagonalDifference\DiagonalDifference.csproj", "{26D58AB2-1BBE-4303-9E6B-7A3C4B41349F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "src\DiagonalDifference\DiagonalDifference.csproj", "{26D58AB2-1BBE-4303-9E6B-7A3C4B41349F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "src\CountingSort\CountingSort.csproj", "{B179C909-2AAD-486B-BE6A-6055F9F94890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSort", "src\CountingSort\CountingSort.csproj", "{B179C909-2AAD-486B-BE6A-6055F9F94890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerBreakers", "src\TowerBreakers\TowerBreakers.csproj", "{59DDFEE1-5324-4F34-8963-FBABC00B3FB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerBreakers", "src\TowerBreakers\TowerBreakers.csproj", "{59DDFEE1-5324-4F34-8963-FBABC00B3FB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "src\CaesarCipher\CaesarCipher.csproj", "{64AE2814-0EBE-4BB9-BF37-96D79F39AAC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaesarCipher", "src\CaesarCipher\CaesarCipher.csproj", "{64AE2814-0EBE-4BB9-BF37-96D79F39AAC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridChallenge", "src\GridChallenge\GridChallenge.csproj", "{2BE19322-4A5B-46B0-8DFD-2E7A0DBD04DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridChallenge", "src\GridChallenge\GridChallenge.csproj", "{2BE19322-4A5B-46B0-8DFD-2E7A0DBD04DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveDigitSum", "src\RecursiveDigitSum\RecursiveDigitSum.csproj", "{3E79E9D8-836A-4383-815D-AE8CC564038E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveDigitSum", "src\RecursiveDigitSum\RecursiveDigitSum.csproj", "{3E79E9D8-836A-4383-815D-AE8CC564038E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearChaos", "src\NewYearChaos\NewYearChaos.csproj", "{39BC5F7F-A4F0-44E6-BC2E-406A96A8BB92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewYearChaos", "src\NewYearChaos\NewYearChaos.csproj", "{39BC5F7F-A4F0-44E6-BC2E-406A96A8BB92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLinkedList", "src\MergeTwoSortedLinkedList\MergeTwoSortedLinkedList.csproj", "{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLinkedList", "src\MergeTwoSortedLinkedList\MergeTwoSortedLinkedList.csproj", "{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SortingAlgorithms", "SortingAlgorithms", "{F88195A4-0E57-4875-B23B-9150A830D416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "src\BubbleSort\BubbleSort.csproj", "{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -127,6 +131,10 @@ Global
 		{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC10BAB0-DECB-4017-B5FD-A9F72D59F932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -136,6 +144,7 @@ Global
 		{98AFFFB0-3904-4958-B80B-22189B74769F} = {2B170E22-4359-4065-8D17-665DE9AF3FEA}
 		{8FFD7727-D359-49C7-8783-69E1482A4F44} = {2B170E22-4359-4065-8D17-665DE9AF3FEA}
 		{DDD39F27-DC2F-4B30-8A84-83E03B772E50} = {2B170E22-4359-4065-8D17-665DE9AF3FEA}
+		{E62D017A-8016-4C39-8BBD-D1ED1A474F0E} = {F88195A4-0E57-4875-B23B-9150A830D416}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {48BF0F28-663C-477D-A057-6A48598A5DF8}
