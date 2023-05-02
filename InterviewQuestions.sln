@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLinkedList", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SortingAlgorithms", "SortingAlgorithms", "{F88195A4-0E57-4875-B23B-9150A830D416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "src\BubbleSort\BubbleSort.csproj", "{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "src\BubbleSort\BubbleSort.csproj", "{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HourGlass-2DArray", "src\HourGlass-2DArray\HourGlass-2DArray.csproj", "{9229EA36-2BAC-4430-AA25-ED37E81C7304}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E62D017A-8016-4C39-8BBD-D1ED1A474F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9229EA36-2BAC-4430-AA25-ED37E81C7304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9229EA36-2BAC-4430-AA25-ED37E81C7304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9229EA36-2BAC-4430-AA25-ED37E81C7304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9229EA36-2BAC-4430-AA25-ED37E81C7304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
