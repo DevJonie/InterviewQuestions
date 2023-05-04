@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HourGlass-2DArray", "src\Ho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelOrderTraversal", "src\LevelOrderTraversal\LevelOrderTraversal.csproj", "{3C42D6E9-824A-4CEC-95B6-9C75F7569F17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberCheck", "src\PrimeNumberCheck\PrimeNumberCheck.csproj", "{100ADA88-D4C9-4149-A31B-ED2B60D1589E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{3C42D6E9-824A-4CEC-95B6-9C75F7569F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C42D6E9-824A-4CEC-95B6-9C75F7569F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C42D6E9-824A-4CEC-95B6-9C75F7569F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100ADA88-D4C9-4149-A31B-ED2B60D1589E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100ADA88-D4C9-4149-A31B-ED2B60D1589E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100ADA88-D4C9-4149-A31B-ED2B60D1589E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100ADA88-D4C9-4149-A31B-ED2B60D1589E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
