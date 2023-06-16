@@ -51,9 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "src\BubbleSor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HourGlass-2DArray", "src\HourGlass-2DArray\HourGlass-2DArray.csproj", "{9229EA36-2BAC-4430-AA25-ED37E81C7304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelOrderTraversal", "src\LevelOrderTraversal\LevelOrderTraversal.csproj", "{3C42D6E9-824A-4CEC-95B6-9C75F7569F17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevelOrderTraversal", "src\LevelOrderTraversal\LevelOrderTraversal.csproj", "{3C42D6E9-824A-4CEC-95B6-9C75F7569F17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberCheck", "src\PrimeNumberCheck\PrimeNumberCheck.csproj", "{100ADA88-D4C9-4149-A31B-ED2B60D1589E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumberCheck", "src\PrimeNumberCheck\PrimeNumberCheck.csproj", "{100ADA88-D4C9-4149-A31B-ED2B60D1589E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvaluateStringMathExpression", "src\EvaluateStringMathExpression\EvaluateStringMathExpression.csproj", "{B216330E-5B71-4C78-ABBB-2BBF79D31E17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{100ADA88-D4C9-4149-A31B-ED2B60D1589E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{100ADA88-D4C9-4149-A31B-ED2B60D1589E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{100ADA88-D4C9-4149-A31B-ED2B60D1589E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B216330E-5B71-4C78-ABBB-2BBF79D31E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B216330E-5B71-4C78-ABBB-2BBF79D31E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B216330E-5B71-4C78-ABBB-2BBF79D31E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B216330E-5B71-4C78-ABBB-2BBF79D31E17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
