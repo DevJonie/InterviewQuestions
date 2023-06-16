@@ -65,14 +65,14 @@ public static class OpsExtensions
         };
     }
 
-    public static bool HasPrecedence(this char op2, char op1)
+    public static bool HasPrecedence(this char op1, char op2)
     {
-        if (op2 == '(' || op2 == ')')
+        if (op1 == '(' || op1 == ')')
         {
             return false;
         }
 
-        if ((op1 == '*' || op1 == '/') && (op2 == '+' || op2 == '-'))
+        if ((op2 == '*' || op2 == '/') && (op1 == '+' || op1 == '-'))
         {
             return false;
         }
