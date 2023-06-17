@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-var strExp = "(3 + 3)   * (2 -2 ) ";
+var strExp = "3 + 3 ^ 2   * (3 - 2 )";
 Console.WriteLine($"{strExp} = {Evaluate(strExp)}");
 
 
@@ -9,7 +9,9 @@ double Evaluate(string expression)
     var ops = new Stack<char>();
     var values = new Stack<double>();
 
-    var tokens = expression.ToCharArray();
+    var tokens = expression
+        .Replace(" ", "")
+        .ToCharArray();
 
     for (int i = 0; i < tokens.Length; i++)
     {
@@ -61,13 +63,14 @@ public static class OpsExtensions
             '-' => a - b,
             '*' => a * b,
             '/' => a / b,
+            '^' => Math.Pow(a, b),
             _ => throw new ArgumentException($"Invalid operator: {op}"),
         };
     }
 
     public static bool HasPrecedence(this char op1, char op2)
     {
-        if (op1 == '(' || op1 == ')')
+        if (op1 == '(' || op1 == ')' || op2 == '^')
         {
             return false;
         }
@@ -82,7 +85,7 @@ public static class OpsExtensions
 
     public static bool IsMathOp(this char op)
     {
-        return op == '+' || op == '-' || op == '*' || op == '/';
+        return op == '+' || op == '-' || op == '*' || op == '/' || op =='^';
     }
     
     public static bool IsNumber(this char token)
